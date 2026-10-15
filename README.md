@@ -13,7 +13,7 @@
 
 ---
 
-### `$ whoami`
+### 👤 Developer Profile
 
 ```text
 USER       Husan Axmedov
@@ -24,7 +24,7 @@ STATUS     [ BUILDING IN PROGRESS ]
 MISSION    Turn useful ideas into practical software
 ```
 
-### `$ cat about.txt`
+### ✨ About Me
 
 Hey! I'm **Husan** 👋
 
@@ -35,7 +35,7 @@ I explore AI-assisted software development and build practical tools to make wor
 - 🌱 Learning, building, testing, and improving
 - 🚀 Preparing new projects for public release
 
-### `$ ls ./projects`
+### 🚀 Projects
 
 > **Under construction.** My next public project is in development.  
 > Check back for releases, demos, and source code.
@@ -46,7 +46,7 @@ One-sentence value proposition.
 [🔗 Repository](https://github.com/xahmedov432-ship-it/PROJECT) · [📦 Releases](https://github.com/xahmedov432-ship-it/PROJECT/releases)
 -->
 
-### `$ git status --short`
+### 🔭 Current Focus
 
 - **Now:** building and refining tools
 - **Next:** release a polished open-source project
@@ -56,7 +56,7 @@ One-sentence value proposition.
 
 <div align="center">
 
-### `// activity`
+### 📊 GitHub Activity
 
 <img src="https://github-readme-stats.vercel.app/api?username=xahmedov432-ship-it&show_icons=true&hide_border=true&bg_color=0b1020&title_color=00ffc8&text_color=cbd5e1&icon_color=a78bfa" alt="GitHub statistics" height="165" />
 
